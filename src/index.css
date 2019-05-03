@@ -12,3 +12,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.badgeNew{
+  /* border: solid 1px yellowgreen; */
+  background-image: url('./img/bg.png')
+}
+
